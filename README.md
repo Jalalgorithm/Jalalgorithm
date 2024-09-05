@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello! I’m Ahmeed Abdul-Jalal, and I’m currently diving deep into .NET technologies, including ASP.NET Web API, Blazor, Blazor WebAssembly, and .NET MAUI. I’m on the lookout for exciting collaborations on .NET projects and am actively expanding my horizons by learning Python.<br><br>If you have any questions about .NET, Blazor, or Python, don’t hesitate to ask—I’m always up for a chat about tech and coding!<br><br>Fun Fact: I have a knack for turning complex problems into simple solutions, but I once accidentally spent an entire day debugging a feature that was already working perfectly. Sometimes, the simplest answers are right under your nose!<br>
+Hello there! I’m Ahmeed Abdul-Jalal, a passionate C# developer with a love for the .NET ecosystem. My journey in programming has been an exciting one, involving .NET Web API, Blazor, and .NET MAUI. I thrive on building robust and user-friendly applications and enjoy every challenge that comes with it.<br><br>Lately, I’ve been expanding my horizons by diving into Python and machine learning. I’m fascinated by how data-driven insights can transform software solutions and am eager to integrate these new skills into my projects.<br><br>If you’re interested in discussing .NET technologies, machine learning, or just sharing programming stories, I’d love to connect. Let’s build something amazing together!<br><br>
+
+<br>
+Fun Fact: When I’m not coding, you might find me experimenting with new recipes in the kitchen or trying to solve the latest tech puzzle—there’s always something new to discover!
 
 
 ## 🌐 Socials:
